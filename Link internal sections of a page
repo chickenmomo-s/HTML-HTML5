@@ -16,3 +16,5 @@ Below is an example of an internal anchor link and its target element:
 
 <!-- When users click the Contacts link, they'll be taken to the section of the webpage with the Contacts header element. -->
 
+Note - 
+If you want to open the link in a different window use the attribute - target="_blank"
