@@ -1,0 +1,10 @@
+<!-- Make Dead Links Using the Hash Symbol -->
+  Sometimes you want to add anchor attributes to your website before you know where they will link.
+    This is also handy when you're changing the behavior of a link using JavaScript.
+    
+<!-- Create a dead link -->
+
+    To create a dead link, just replace the value of href attribute with #(hash symbol)
+    Example -
+    <a> a href"#"</a>
+    
