@@ -1,0 +1,9 @@
+<!-- Turn an Image into a Link -->
+You can convert images into links by nesting them within an anchor element.
+<!-- How to convert it ? -->
+Nest your image within an a element. Here's an example:
+
+<a href="#"><img src="image source" alt="Text you want to display"></a>
+
+Remember to use # as your a element's href property in order to turn it into a dead link.
+
