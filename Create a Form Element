@@ -1,0 +1,13 @@
+<!-- Create a Form Element and add a submit button -->
+
+You can build web forms that actually submit data to a server using HTML. 
+You can do this by specifying an action on your form element.
+<!--example -->
+  For example:
+    <form action="/url-where-you-want-to-submit-form-data"></form>
+    
+ By adding a sumbit button, this button will send the data from your form to the URL you specified with your form's action attribute.
+ 
+ Here's an example of submit button:
+
+<button type="submit">this button submits the form</button>
